@@ -1,0 +1,7 @@
+.content-card {
+  margin-top: 15px;
+}
+
+.content-card h6 {
+  text-transform: capitalize;
+}

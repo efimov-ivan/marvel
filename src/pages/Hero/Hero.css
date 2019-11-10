@@ -1,0 +1,17 @@
+.main .chips {
+    margin: 5px;
+}
+
+.main .back-button {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.main .back-button a {
+    text-decoration: none;
+}
+
+.main .back-button .MuiButton-containedPrimary {
+    color: #3f51b5 !important;
+    background-color: #fff !important;
+}
